@@ -1,6 +1,4 @@
-
-
-Brain Tumor Detection System
+# Brain Tumor Detection System
 
 This project is a deep-learning-based brain tumor detection system that classifies human brain MRI images into one of four categories. It uses a VGG16 model and a Streamlit web application to provide predictions from uploaded MRI images.
 
