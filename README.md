@@ -41,7 +41,7 @@ Accuracy: 1,465 / 1,600 = 91.56%
 3. Start the Streamlit application:
 
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 4. Upload a JPG or PNG brain MRI image to receive a predicted class and confidence score.
