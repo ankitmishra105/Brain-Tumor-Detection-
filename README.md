@@ -1,6 +1,5 @@
 
 
-
 # Brain Tumor MRI Classification — 4-Class Deep Learning Model
 
 A deep learning system that classifies brain MRI scans into four categories using **transfer learning**, deployed as an interactive **Streamlit web app**.
