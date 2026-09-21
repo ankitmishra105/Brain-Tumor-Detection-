@@ -49,6 +49,7 @@ Testing/
   2. Fine-tune the last convolutional block of VGG16 at a low learning rate
 - Evaluated on a fully held-out test set (1,600 images) never seen during training
 
+![Alt text](https://github.com/ankitmishra105/Brain-Tumor-Detection-/commit/f037552bd4fe2e539d708dbc00b99a4f4ee59cae)
 ## Model Performance
 
 - **Test Accuracy: ~94%**
